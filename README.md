@@ -1,3 +1,3 @@
 # first-repo
 just learnning git and github
-<h2>created by- akash yadav</h2>
+<h2>created by- yadav jii</h2>
